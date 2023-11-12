@@ -1,2 +1,2 @@
-# multicraft-papermc
-A config file to add PaperMC.io to Multicraft and autoupdate it
+# multicraft-purpur
+A config file to add Purpur to Multicraft and autoupdate it
